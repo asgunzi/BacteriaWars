@@ -13,3 +13,9 @@ Há três parâmetros: natalidade (quanto maior, mais se reproduz), longevidade 
 
 
 Quem quiser sugerir melhorias e modificações, estou à disposição.
+
+
+
+Ideias técnicas com uma pitada de filosofia
+
+[https://ideiasesquecidas.com/](https://ideiasesquecidas.com/)
